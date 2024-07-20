@@ -59,21 +59,21 @@
 
 <h2>NICE Framework KSAs</h2>
 <ul>
-<li>K0001 - Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
+<li>K0001: Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
 <br>
-<li>K0010 - Knowledge of communication methods, principles, and ideas that support the network infrastructure.</li>
+<li>K0010: Knowledge of communication methods, principles, and ideas that support the network infrastructure.</li>
 <br>
-<li>K0011 - Knowledge of capabilities and applications of network equipmentK0029	Knowledge of the organization's Local and Wide Area Network connections.</li>
+<li>K0011: Knowledge of capabilities and applications of network equipmentK0029	Knowledge of the organization's Local and Wide Area Network connections.</li>
 <br>
-<li>K0034 - Knowledge of network services and protocol interactions that provide network communications.</li>
+<li>K0034: Knowledge of network services and protocol interactions that provide network communications.</li>
 <br>
-<li>K0057 - Knowledge of network hardware devices and functions.</li>
+<li>K0057: Knowledge of network hardware devices and functions.</li>
 <br>
-<li>K0061 - Knowledge of how traffic flows across the network</li>
+<li>K0061: Knowledge of how traffic flows across the network</li>
 <br>
-<li>K0111 - Knowledge of network tools</li>
+<li>K0111: Knowledge of network tools</li>
 <br>
-<li>K0113 - Knowledge of different types of network communication</li>
+<li>K0113: Knowledge of different types of network communication</li>
 </ul>
 
 
@@ -165,6 +165,34 @@ Engage in exercises to identify ports and protocols in action, employing tools t
 
 The unseen heroes of our digital interactions, network ports, and protocols, are foundational to understanding how information travels in a network. Today’s exploration demystifies these critical elements, offering a lens through which we can appreciate the intricate choreography that underpins our digital communications. As we venture further into the networking domain, the knowledge acquired today will serve as a stepping stone towards grasping more complex networking concepts, enriching our comprehension of this digital dance.
 
+<h2>Definitions</h2>
+<ul>
+<li><b>Network Port:</b> A virtual point for network connections, identified by a number, that allows data to be sent and received by devices.<br>
+<br>
+
+<li><b>Protocol:</b> A set of rules and standards that define how data is transmitted and received across a network.<br>
+<br>
+
+<li><b>TCP (Transmission Control Protocol):</b> A core Internet protocol that provides reliable, ordered, and error-checked delivery of data between applications.<br>
+<br>
+
+<li><b>UDP (User Datagram Protocol):</b> A communication protocol that allows the sending of messages without establishing a connection, offering faster but less reliable data transmission than TCP.<br>
+<br>
+
+<li><b>Sockets:</b> Endpoints for sending and receiving data across a network, combining an IP address and a port number.<br>
+<br>
+
+<li><b>Well-Known Ports:</b> Port numbers ranging from 0 to 1023, assigned to widely used protocols and services.<br>
+<br>
+
+<li><b>Registered Ports:</b> Port numbers ranging from 1024 to 49151, assigned to user processes or applications.<br>
+<br>
+
+<li><b>Dynamic/Private Ports:</b> Port numbers ranging from 49152 to 65535, used for temporary or private connections, typically assigned dynamically by the operating system.<br>
+<br>
+
+<li><b>Port Forwarding:</b> A network configuration that redirects communication requests from one address and port number combination to another, enabling external devices to access services on a private network.	
+</ul>
 
 
 <h2> Presentation</h2>
@@ -173,6 +201,8 @@ The unseen heroes of our digital interactions, network ports, and protocols, are
 
 
 <h2> Hands-On Labs</h2>
+
+<h2>Games</h2>
 
 
 
